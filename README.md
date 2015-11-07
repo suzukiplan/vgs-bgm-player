@@ -1,2 +1,2 @@
-# vgs-bgm-player-ios
-VGS BGM Player for iOS
+# VGS BGM Player
+本リポジトリでは, VGS BGM Player のサポート情報を記します。
