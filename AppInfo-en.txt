@@ -1,0 +1,94 @@
+AppStore掲載原稿（英語）
+
+VGS BGM Player is a portable audio player that plays VGS format music data. This application imports VGS-format music data saved on Dropbox and allows you to listen to it while you are offline. 
+Music data that is in VGS format is different from typical music data formats such as AAC, MP3, etc., in that it can play music from real-time waveform arithmetic. 
+The size of the data for each song is extremely small in comparison to typical music data (sound sources in compressed formats) because of this.
+
+(References)
+- Typical music data: around 1MB for one minute.
+- VGS Music Data: between about 1KB to 30KB for a song that is around 5 minutes long.
+*1KB is 1/1024 of 1MB.
+
+VGS music data that has been imported into this application can be played even when offline.
+
+(Main Screen)
+・Tap on a song in the list to begin playing music. 
+・Push down on a song in the list for a moment to do things like check its meta-information or to edit its display name.
+・Tap the settings button (≡) on the top left to go to the settings screen.
+・Tap the edit button (edit symbol) on the top right to rearrange or delete songs.
+・You can seek through songs with the seek bar in the center of the screen.
+・You can stop or play songs with the button to the right side of the seek bar.
+・It operates in the background.
+
+(Operating from the Lock Screen)
+You can do the following things from the lock screen of a device if are playing music on the main screen.
+　- Pause Button: start or stop a song.
+　- Fast-forward Button: skip to the next song.
+　- Rewind Button: play the current song from the beginning.
+
+(Settings Screen)
+The following are directions for each of the items on the settings screen.
+
+(Music Lists)
+You can select between music lists for playback/importing.
+・Preset: preset music list (read only).
+・Free Pocket: free music list.
+・Paid Music List (see below for details).
+
+In addition, you may arrange or delete preset songs on the main screen, but they will automatically return to their original state if the application is restarted or if the list is reloaded again.
+
+(Play Mode)
+You can select between different modes to play music.
+・Sequence: play songs in order.
+・Shuffle: songs will be played in a shuffled order.
+・Random: songs will be played randomly.
+・Infinite: perpetually play a single song.
+
+(Dropbox) 
+You can import song data (.vgs files) from Dropbox.
+・Account Link: link up with a Dropbox account.
+・Import: import song data from Dropbox.
+*Preset lists are not supported (presets are read only).
+
+The music data (.vgs files) "Touhou BGM on VGS" that we published on this application is all on GitHub, so if you would like to try importing it, please access it there.
+https://github.com/suzukiplan/Touhou-VGS-MML-data
+*It can also be accessed from the application developer's website.
+
+(Backup Paid Lists) 
+You can backup and restore paid music list content.
+Please use this when you are changing devices or sharing data across multiple devices.
+*You cannot backup or restore Free Pocket (free music lists) content.
+
+Backup to iCloud:
+Locally stored content will be backed up onto iCloud.
+Backed up content will be overwritten when you run "Backup to iCloud" with data that has been previously backed up.
+
+Restoring from iCloud:
+Locally stored content will be restored from the backup on iCloud.
+Locally stored data that has not been backed up will be lost when restoring.
+
+(Managing Music Lists) 
+You can manage music lists that you have bought as well as buy additional ones.
+
+(Removing Ads) 
+You can remove the ads. 
+*You must purchase a paid item in order to do this.
+
+(Restoring) 
+Check the purchase history of paid items.
+Please run "Restore" when you have reinstalled the application after uninstalling it or when using a new device in the event you have items that you have previously paid for.
+
+(Paid Items)
+This application has the following paid items.
+(1) Ad removal.
+(2) Paid lists #1 through #10 (paid music lists).
+(1) and (2) above are "non-consumable" paid items.
+"Non-consumable" paid items do not have to be bought more than once.
+In addition, you can use them on different devices without purchasing them again (as long as you are using the same Apple account).
+
+(Paid Music Lists)
+- You can buy paid music lists individually.
+- You may store up to a maximum of 50 songs in one paid music list.
+- You can customize a display name by pressing on the Manage Music List screen for a moment.
+- You can back up the content on iCloud.
+
