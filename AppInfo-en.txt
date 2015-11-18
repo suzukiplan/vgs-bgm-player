@@ -72,7 +72,7 @@ You can manage music lists that you have bought as well as buy additional ones.
 You can remove the ads. 
 *You must purchase a paid item in order to do this.
 
-(Restoring) 
+(Restore) 
 Check the purchase history of paid items.
 Please run "Restore" when you have reinstalled the application after uninstalling it or when using a new device in the event you have items that you have previously paid for.
 
