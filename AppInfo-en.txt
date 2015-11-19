@@ -49,7 +49,7 @@ You can import song data (.vgs files) from Dropbox.
 - Account Link: link up with a Dropbox account.
 - Import: import song data from Dropbox.
 
-The music data (.vgs files) "Touhou BGM on VGS" that I published on this application is all on GitHub, so if you would like to try importing it, please access it there.
+The music data (.vgs files) "Touhou BGM on VGS" that I published on the AppStore are all on GitHub for free, so if you would like to try importing, please access it there.
 https://github.com/suzukiplan/Touhou-VGS-MML-data
 *It can also be accessed from the application developer's website.
 
