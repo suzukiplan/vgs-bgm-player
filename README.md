@@ -1,8 +1,8 @@
 # VGS BGM Player
 - 本リポジトリでは, VGS BGM Player のサポート情報を記します。
-- アプリの使い方などについては AppStore掲載の情報 をご確認ください。
+- アプリの使い方などについては [AppStore掲載の情報](https://itunes.apple.com/us/app/vgs-bgm-player/id1056898557?mt=8) をご確認ください。
 
-__※現時点ではまだアプリは公開していません__
+__[VGS BGM Playerを入手](https://itunes.apple.com/us/app/vgs-bgm-player/id1056898557?mt=8)__
 
 ## Dropboxからインポートできるデータ
 `vgs2mml` でコンパイル後, `vgs2pack` コマンドでメタデータを付与したデータをインポートできます。
