@@ -44,6 +44,10 @@ You can select between different modes to play music.
 - Random: songs will be played randomly.
 - Infinite: perpetually play a single song.
 
+(Portal sites)
+You can import song data from the following web sites:
+- suzukiplan.com
+
 (Dropbox) 
 You can import song data (.vgs files) from Dropbox.
 - Account Link: link up with a Dropbox account.
@@ -51,7 +55,6 @@ You can import song data (.vgs files) from Dropbox.
 
 The music data (.vgs files) "Touhou BGM on VGS" that I published on the AppStore are all on GitHub for free, so if you would like to try importing, please access it there.
 https://github.com/suzukiplan/Touhou-VGS-MML-data
-*It can also be accessed from the application developer's website.
 
 (Backup Paid Lists) 
 You can backup and restore paid music list content.
