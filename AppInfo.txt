@@ -44,6 +44,9 @@ VGS形式のミュージックデータは、AACやMP3などの一般的なミ�
 ・Random: ランダム再生
 ・Infinite: 単一曲を永遠に再生
 
+（Portal sites）
+ポータルサイトから曲データをインポートできます。
+
 （Dropbox）
 Dropboxから曲データ（.vgsファイル）をインポートできます。
 ・Account link: Dropboxアカウントとのリンクを行います
